@@ -1,6 +1,6 @@
 import os
 import random
-
+import sys
 
 
 def error_char_handler(error):
@@ -23,7 +23,7 @@ if not os.path.exists(flashcard):
             qa_pop.write("\n")
     print("QA populated in Pycard.txt \n")
     print("Refresh your folder, open pyflash.txt, add your questions and answers \n")
-    exit()
+    sys.exit()
 
 else:
     with open (flashcard, 'r', encoding='utf-8', errors='unhandled_text') as flash:
@@ -54,7 +54,7 @@ if len(cleaned_qs) < 2:
     print("Q: (Your question)\n")
     print("A: (Your correct answer)\n")
     print("Save the file and run again.")
-    exit()
+    sys.exit()
 
 qa_pairs = []
 
